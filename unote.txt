@@ -1,1 +1,1 @@
-Added updated models, shortcut creator, and changed a few file names around!
+Fixed the auto updater and an issue when you updated it would delete your save data!
